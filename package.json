@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "Jean Sarlôn"
+  },
+  "description": "eslint rules for javascript projects",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@jeansarlon/eslint-config-base",
+  "peerDependencies": {
+    "eslint": "^5.1.0",
+    "eslint-plugin-import": "^2.13.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeansarlon/eslint-config-base"
+  },
+  "scripts": {},
+  "version": "1.0.0"
+}
